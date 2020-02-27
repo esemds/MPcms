@@ -1,0 +1,2 @@
+# MPcms
+Minimal PHP CMS
